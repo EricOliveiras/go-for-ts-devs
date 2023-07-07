@@ -1,6 +1,7 @@
 # GoLang para Desenvolvedores TypeScript
 
-![image](https://github.com/oliveirabalsa/go-for-ts-devs/assets/57500163/02b2e316-ac6d-4928-a6d8-c69a3c538411)
+
+![go-ts](https://github.com/oliveirabalsa/go-for-ts-devs/assets/57500163/56c4db51-8bdb-4157-948a-eeba54c22b27)
 
 > Um repositório para ajudar desenvolvedores TypeScript a aprender Go, comparando exemplos de código em Go e TypeScript. 🚀
 
